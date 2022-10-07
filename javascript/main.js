@@ -2,7 +2,7 @@ let audio = document.querySelectorAll("audio")[0];
 let listaMusica = new Array();
 let atual = 0;
 
-listaMusica[0] = "/audio/boi.mp3";
+listaMusica[0] = "./audio/boi.mp3";
 listaMusica[1] = "./audio/bolofofos.mp3";
 listaMusica[2] = "./audio/carro.mp3";
 listaMusica[3] = "./audio/criancas.mp3";
